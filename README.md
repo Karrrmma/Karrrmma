@@ -7,7 +7,7 @@ Rapid LLM prototypes with Node.js + React for full-stack apps.
 🧑‍🤝‍🧑 Let's Collaborate On:
 
 AI/ML projects (NLP, chatbots, healthcare).
-Full-stack apps with AWS, Supabase, or cloud tech.
+Full-stack apps with AWS, Supabase, or cloud tech<br>
 🤝 Need Help With:
 
 Boosting accuracy in healthcare AI models.
