@@ -1,5 +1,24 @@
-# 💫 About Me:
-🚀 I’m currently working on<br><br>HealthAdvisor AI – Developing a Retrieval-Augmented Generation (RAG) system to identify and recommend medical conditions based on user-reported symptoms. This project leverages open-source resources and the OpenAI GPT-3 model. Implementing semantic chunking with Hugging Face SentenceTransformer embeddings to create semantically meaningful documents for efficient retrieval. Built FAISS-based semantic search to retrieve top-k relevant chunks, providing context-aware inputs to OpenAI GPT-3 for natural language response generation.<br>Building fast prototypes with LLM technology, integrating Node.js and React for full-stack web development.<br>🧑‍🤝‍🧑 I’m looking to collaborate on<br><br>AI and machine learning projects, especially those involving NLP, chatbots, or computer vision.<br>Healthcare AI solutions that leverage predictive analytics for personalized recommendations.<br>Full-stack applications that leverage cloud technologies (AWS, Supabase).<br>🤝 I’m looking for help with<br><br>Enhancing model accuracy for healthcare-focused generative AI projects.<br>Scaling Flask and Node.js applications for production environments.<br>🌱 I’m currently learning<br><br>TensorFlow for advanced deep learning models.<br>Reinforcement learning algorithms for autonomous systems.<br>Advanced TypeScript for React Native development.<br>💬 Ask me about<br><br>Fine-tuning GPT models and integrating them into web applications.<br>Building scalable REST APIs with Express and Flask.<br>Applying AI to healthcare challenges, from symptom prediction to personalized health insights.<br> ⚡ Fun fact<br>I’m passionate about using AI to bridge gaps in healthcare and improve patient outcomes.
+💫 About Me:
+🚀 Currently Building:
+
+HealthAdvisor AI – An AI tool that recommends medical conditions from user symptoms using RAG, GPT-3, and FAISS-based semantic search.
+Rapid LLM prototypes with Node.js + React for full-stack apps.
+🧑‍🤝‍🧑 Let's Collaborate On:
+
+AI/ML projects (NLP, chatbots, healthcare).
+Full-stack apps with AWS, Supabase, or cloud tech.
+🤝 Need Help With:
+
+Boosting accuracy in healthcare AI models.
+Scaling Flask/Node apps for production.
+🌱 Currently Learning:
+
+TensorFlow (deep learning), RL, TypeScript for React Native.
+💬 Ask Me About:
+
+Fine-tuning GPTs, AI for healthcare, and REST APIs.
+⚡ Fun Fact:
+Once built an AI that diagnosed "Monday blues" as a rare condition – it needed retraining!
 
 
 ## 🌐 Socials:
