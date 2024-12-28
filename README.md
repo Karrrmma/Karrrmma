@@ -1,17 +1,12 @@
 💫 About Me: <br>
 🎓 New Grad | Software Engineer Intern @ Hydrated Pass | AI + Full Stack Enthusiast<br>
-🚀 Currently Building:<br>
-
-HealthAdvisor AI – An AI tool that recommends medical conditions from user symptoms using RAG, GPT-3, and FAISS-based semantic search.<br>
+🚀 Currently Building: HealthAdvisor AI – An AI tool that recommends medical conditions from user symptoms using RAG, GPT-3, and FAISS-based semantic search.<br>
 Rapid LLM prototypes with Node.js + React for full-stack apps.<br>
 🧑‍🤝‍🧑 Let's Collaborate On:<br>
 
 AI/ML projects (NLP, chatbots, healthcare).<br>
 Full-stack apps with AWS, Supabase, or cloud tech<br>
-🤝 Need Help With:<br>
 
-Boosting accuracy in healthcare AI models.<br>
-Scaling Flask/Node apps for production.<br>
 🌱 Currently Learning:<br>
 
 TensorFlow (deep learning), RL, TypeScript for React Native.<br>
